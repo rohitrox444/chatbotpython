@@ -12,9 +12,9 @@ with open('intents.json') as file:
     data = json.load(file)
 
 print(data['intents'])
+#date 03-july-2020
+#Tensorflow error has been resolved by VC 2015, 2017(one installation setup in d/apps) distribution installation 
 # Worked till here but need to solve some unknown erorrs might be arising because of system configuration
-
-
 
 
 # words = []
